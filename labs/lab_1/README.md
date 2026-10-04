@@ -75,7 +75,7 @@
 ```text
 10
 ```
-# [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/C.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/C.cpp)
 
 # E. Сортировка слиянием
 Отсортируйте данный массив, используя сортировку слиянием.
@@ -97,7 +97,7 @@
 1 3
 ```
 
-# [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/E.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/E.cpp)
 
 # F. Быстрая сортировка
 Отсортируйте данный массив. Используйте быструю сортировку.
@@ -119,7 +119,7 @@
 1 3
 ```
 
-# [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/F.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/F.cpp)
 
 # G. Сортировка подсчетом
 Дан список из N (N≤2∗105) элементов,которые принимают целые значения от 0 до 100.
@@ -138,7 +138,7 @@
 2 3 4 5 7
 ```
 
-# [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/G.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/G.cpp)
 
 # H. Сортировка точек
 Выведите все исходные точки в порядке возрастания их расстояний от начала координат.
@@ -162,7 +162,7 @@
 1 2
 2 3
 ```
-# [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/H.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/H.cpp)
 
 # I. Анаграммы
 Слово называется анаграммой другого слова, если оно может быть получено перестановкой его символов.
@@ -175,7 +175,7 @@
 **Примечание**
 Сложность работы программы должна быть O(n). Использование встроенной сортировки(sort, sorted), алгоритмов сортировки пузырёк/quick sort/merge sort и других запрещено!
 
-# [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/I.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/I.cpp)
 
 # J. Число
 Вася написал на длинной полоске бумаги большое число и решил похвастаться своему старшему брату Пете этим достижением. Но только он вышел из комнаты, чтобы позвать брата, как его сестра Катя вбежала в комнату и разрезала полоску бумаги на несколько частей. В результате на каждой части оказалось одна или несколько идущих подряд цифр.
@@ -207,7 +207,7 @@
 ```text
 3
 ```
-# [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/J.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/J.cpp)
 
 # K. Анти-QuickSort
 Для сортировки последовательности чисел широко используется быстрая сортировка - QuickSort. Далее приведена программа, которая сортирует массив a, используя этот алгоритм.
@@ -275,7 +275,7 @@ end.
 ```text
 1 3 2 
 ```
-# [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/K.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/K.cpp)
 
 # L. Такси
 После затянувшегося совещания директор фирмы решил заказать такси,чтобы развезти сотрудников по домам. Он заказал N машин —ровно столько, сколь у него сотрудников.Однако когда они подъехали, оказалось, что у каждого водителя такси свой тариф за 1 километр.
@@ -299,4 +299,4 @@ end.
 ```text
 1700
 ```
-# [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/L.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/L.cpp)
