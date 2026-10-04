@@ -15,3 +15,11 @@
 * [L. Такси](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/L.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/README.md)
 ---
 ## Тема 2. Бинарный поиск
+* [A Двоичный поиск](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/A.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/README.md)
+* [B Приближенный двоичный поиск](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/B.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/README.md)
+* [C Квадратный корень и квадратный квадрат](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/C.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/README.md)
+* [D Корень кубического уравнения](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/D.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/README.md)
+* [E Коровы - в стойла](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/E.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/README.md)
+* [F Очень Легкая Задача](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/F.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/README.md)
+* [G Веревочки](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/G.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/README.md)
+* [H Дипломы](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/H.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/README.md)
