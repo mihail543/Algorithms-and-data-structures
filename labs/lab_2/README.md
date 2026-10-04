@@ -26,7 +26,7 @@ YES
 YES
 NO
 ```
-## [Решение](./файл.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/A.py)
 
 # Приближенный двоичный поиск
 
@@ -56,7 +56,7 @@ NO
 1
 5
 ```
-## [Решение](./файл.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/B.py)
 
 # Квадратный корень и квадратный квадрат
 
@@ -88,7 +88,7 @@ NO
 ```text
 4.000000000
 ```
-## [Решение](./файл.cpp)
+## [Решение]([./файл.cpp](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/C.py))
 
 # Корень кубического уравнения
 
@@ -120,7 +120,7 @@ NO
 ```text
 -0.999999999990564
 ```
-## [Решение](./файл.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/D.py)
 
 # Коровы - в стойла
 
@@ -145,7 +145,7 @@ NO
 ```text
 9
 ```
-## [Решение](./файл.cpp)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/E.py)
 
 # Очень Легкая Задача
 
@@ -177,7 +177,7 @@ NO
 ```text
 4
 ```
-## [Решение](./файл.cpp)
+## [Решение]([./файл.cpp](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/F.py))
 
 # Веревочки
 
@@ -205,7 +205,7 @@ NO
 ```text
 200
 ```
-## [Решение](./файл.cpp)
+## [Решение]([./файл.cpp](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/G.py))
 
 # Дипломы
 
@@ -237,32 +237,4 @@ NO
 ```text
 1
 ```
-## [Решение](./файл.cpp)
-
-# Провода
-*
-Дано *N* отрезков провода длиной *L1*, *L2*, ..., *Ln* сантиметров. Требуется с помощью разрезания получить из них K* равных отрезков как можно большей длины, выражающейся целым числом сантиметров. Если нельзя получить *K* отрезков длиной даже *1* см, вывести *0*. Ограничения: 1 <= N <= 10 000, 1 <= K <= 10 000, 100 <= Li <= 10 000 000, все числа *целые*.
-
-**Входные данные** 
-
-В первой строке находятся числа *N* и *К*. В следующих *N* строках - *L1*, *L2*, ..., *Ln*, по одному числу в строке.
-
-**Выходные данные** 
-
-Вывести одно число - полученную длину отрезков.
-
-## Пример
-
-**входные данные**
-```text
-4 11
-802
-743
-457
-539
-```
-**выходные данные**
-```text
-200
-```
-## [Решение](./файл.cpp)
+## [Решение]([./файл.cpp](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/H.py))
