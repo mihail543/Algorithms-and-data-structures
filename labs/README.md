@@ -13,3 +13,5 @@
 * [J. Число](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/J.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/README.md)
 * [K. Анти-QuickSort](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/K.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/README.md)
 * [L. Такси](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/L.py) - [Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_1/README.md)
+---
+## Тема 2. Бинарный поиск
