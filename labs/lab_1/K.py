@@ -1,5 +1,3 @@
-import sys
-
 def anti_quick_sort_permutation(n):
     perm = list(range(1, n + 1))
     for i in range(2, n):
@@ -7,6 +5,6 @@ def anti_quick_sort_permutation(n):
     return perm
 
 
-n = int(sys.stdin.read().split()[0])
+n = int(input())
 perm = anti_quick_sort_permutation(n)
 print(' '.join(map(str, perm)))
