@@ -10,7 +10,7 @@ def bubble_sort(arr):
                 arr[j], arr[j + 1] = arr[j + 1], arr[j]
 
 
-data = open(0).read().split()
+data = input().split()
 
 bubble_sort(data)
 print(''.join(data))
