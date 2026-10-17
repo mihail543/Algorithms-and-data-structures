@@ -26,7 +26,7 @@ YES
 YES
 NO
 ```
-## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/A.py)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/A_Двоичный%20поиск.py)
 
 # Приближенный двоичный поиск
 
@@ -56,7 +56,7 @@ NO
 1
 5
 ```
-## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/B.py)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/B_Приближенный%20двоичный%20поиск.py)
 
 # Квадратный корень и квадратный квадрат
 
@@ -88,7 +88,7 @@ NO
 ```text
 4.000000000
 ```
-## [Решение]([./файл.cpp](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/C.py))
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/C_Квадратный%20корень%20и%20квадратный%20квадрат.py)
 
 # Корень кубического уравнения
 
@@ -120,7 +120,7 @@ NO
 ```text
 -0.999999999990564
 ```
-## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/D.py)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/D_Корень%20кубического%20уравнения.py)
 
 # Коровы - в стойла
 
@@ -145,7 +145,7 @@ NO
 ```text
 9
 ```
-## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/E.py)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/E_Коровы%20в%20стойла.cpp)
 
 # Очень Легкая Задача
 
@@ -177,7 +177,7 @@ NO
 ```text
 4
 ```
-## [Решение]([./файл.cpp](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/F.py))
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/F_Очень%20легкая%20задача.cpp)
 
 # Веревочки
 
@@ -205,7 +205,7 @@ NO
 ```text
 200
 ```
-## [Решение]([./файл.cpp](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/G.py))
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/G_Веревочки.cpp)
 
 # Дипломы
 
@@ -237,4 +237,4 @@ NO
 ```text
 1
 ```
-## [Решение]([./файл.cpp](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/H.py))
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/H_Дипломы.cpp)
