@@ -23,7 +23,7 @@ b) Extract достать из Heap наибольшее число (удали�
 1
 ```
 
-## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_3/B_Правильная%20скобочная%20последовательность.py)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/A_Хипуй.py)
 
 # Пирамидальная сортировка
 
@@ -37,7 +37,7 @@ b) Extract достать из Heap наибольшее число (удали�
 
 Выведите эти числа в порядке неубывания.
 
-## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_3/C_Постфиксная%20запись.py)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/B_Пирамидальная%20сортировка.py)
 
 # Пирамида (минимум)
 
@@ -92,7 +92,7 @@ EXTRACT
 EXTRACT
 ```
 
-## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_2/D.py)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/C_Пирамида%20(минимум).cpp)
 
 # Пирамида (максимум)
 
@@ -135,7 +135,7 @@ EXTRACT
 EXTRACT
 ```
 
-## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_3/E_Дек%20с%20защитой%20от%20ошибок.py)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/D_Пирамида%20(максимум).cpp)
 
 # Коммерческий калькулятор
 
@@ -157,7 +157,7 @@ EXTRACT
 10 11 12 13
 ```
 
-## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_3/F_Минимум%20на%20отрезке.py)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/E_Коммерческий%20калькулятор.cpp)
 
 # Таможня
 
@@ -185,7 +185,7 @@ EXTRACT
 5 2
 ```
 
-## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_3/G_Сортировка%20вагонов.py)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/F_Таможня.py)
 
 # Вычислительная ихтиология
 
@@ -233,5 +233,5 @@ EXTRACT
 1
 994
 ```
-## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_3/H_Гоблины%20и%20шаманы.py)
+## [Решение](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/G_Вычислительная%20ихтиология.py)
 
