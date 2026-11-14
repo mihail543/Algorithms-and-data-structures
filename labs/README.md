@@ -38,4 +38,11 @@
 * [H Гоблины и шаманы](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_3/H_Гоблины%20и%20шаманы.py)
 
 ## Тема 4. Куча
-[Условия]
+[Условия](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/README.md)
+* [A Хипуй](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/A_Хипуй.py)
+* [B Пирамидальная сортировка](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/B_Пирамидальная%20сортировка.py)
+* [C Пирамида (минимум)](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/C_Пирамида%20(минимум).cpp)
+* [D Пирамида (максимум)](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/D_Пирамида%20(максимум).cpp)
+* [E Коммерческий калькулятор](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/E_Коммерческий%20калькулятор.cpp)
+* [F Таможня](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/F_Таможня.py)
+* [G Вычислительная ихтиология](https://github.com/mihail543/Algorithms-and-data-structures/blob/main/labs/lab_4/G_Вычислительная%20ихтиология.py)
