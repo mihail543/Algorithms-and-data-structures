@@ -43,7 +43,6 @@ class BinarySearchTree:
         elif key > node.data:
             node.right = self._delete(node.right, key)
         elif not (node.left is None) and not (node.right is None):
-            # По условию задачи берем максимум из ЛЕВОГО поддерева
             max_node = self._find_max_node(node.left)
             node.data = max_node.data
             node.left = self._delete(node.left, node.data)
